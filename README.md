@@ -38,8 +38,8 @@ VCC -> 3.3v
 
 # Подключение пьезодатчика и работа с ним
 
-http://arduino.cc/en/uploads/Tutorial/knock_bb.png
 
+![](http://arduino.cc/en/uploads/Tutorial/knock_bb.png)
 
 ```
 Обработка сигнала с датчика
