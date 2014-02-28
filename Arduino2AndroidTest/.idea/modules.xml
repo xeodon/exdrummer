@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arduino2AndroidTest.iml" filepath="$PROJECT_DIR$/Arduino2AndroidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ard2and/ard2and.iml" filepath="$PROJECT_DIR$/ard2and/ard2and.iml" />
+    </modules>
+  </component>
+</project>
+
